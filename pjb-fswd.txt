@@ -2,5 +2,5 @@ PJB-FSWD
 - Konsisten untuk belajar programming setiap hari
 - Membuat platform untuk pengelolaan portofolio
 - Membuat forum diskusi
-- Membuat penelitian
 - Kolaborasi dengan lebih banyak expert
+- Membuat vlog
